@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahidmau/node-jenkins-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahidmau/node-jenkins-app/issues"
+  },
+  "homepage": "https://github.com/shahidmau/node-jenkins-app#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "supertest": "^3.4.2"
+  }
+}
